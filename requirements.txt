@@ -1,0 +1,6 @@
+mcp[cli]>=1.2.0
+uvicorn
+starlette
+tradingview-ta
+tvDatafeed @ git+https://github.com/rongardF/tvdatafeed.git
+pandas
